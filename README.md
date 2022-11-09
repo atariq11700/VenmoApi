@@ -1,4 +1,5 @@
 # VenmoToolbox
+# _FOR EDUCATIONAL PURPOSES ONLY_
   
 ## This is a small project I made to interact with the venmo api. It is only written in python and uses only the standard library.   
 
